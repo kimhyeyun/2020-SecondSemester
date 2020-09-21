@@ -1,0 +1,5 @@
+﻿  bmpfile.cpp
+C:\Users\김혜윤\source\repos\1차과제\1차과제\bmpfile.cpp(174,16): warning C4101: 'tfile' :참조되지 않은 지역 변수입니다.
+  steganography.cpp
+  코드를 생성하고 있습니다...
+  1차과제.vcxproj -> C:\Users\김혜윤\source\repos\1차과제\Debug\1차과제.exe
