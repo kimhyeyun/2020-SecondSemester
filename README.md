@@ -7,3 +7,6 @@
         decoding : 마찬가지로 fseek함수를 이용해 마지막 부분으로 이동하여 stack을 사용해 마지막에서 부터 '*' 까지 읽어욤
    2. 2차 과제 : miller-Rabin 구현
     -> miller-Rabin.py 속 test 함수 구현 :  n-1 의 2^t*u 형태를 구해주고 RSA test와 Fermat test로 prime number 인지 아닌지 검사.
+   3. 3차 과제
+    -> Extended Euclid for binary polynomials & discrete logarithm 구현
+    
